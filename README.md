@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Hotel Miranda Website](https://github.com/vichule/HotelMiranda-php)
 
-- 👨‍💻 All of my projects are available at "Coming Soon"
+- 👨‍💻 All of my projects are available at [My portfolio](http://portfolio-javi.s3-website.eu-west-3.amazonaws.com/)
 
 - 📫 How to reach me **javier.cabanasdiaz@gmail.com**
 
