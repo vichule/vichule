@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Cabañas</h1>
 <h3 align="center">Full Stack Developer from Spain</h3>
 
+<p align="center">
+  🌐 Portfolio: <a href="https://javier-cabanas-portfolio.vercel.app/">javier-cabanas-portfolio.vercel.app</a>
+</p>
 ---
 
 ### 👨‍💻 About me
@@ -40,7 +43,4 @@ I enjoy working on real-world projects, taking ownership of the technical side a
 
 ---
 
-### ⚡ Fun fact
-
-> *Hay que confiar, porque si no confías no hay confianza.*
 
